@@ -16,6 +16,26 @@ This project analyzes a historical OLA ride-booking dataset covering 1 July 2024
 
 ---
 
+## ⭐ Project Summary
+
+### Situation
+Analyzed over 103K OLA ride bookings to understand business performance, customer behavior, and operational efficiency.
+
+### Task
+Develop an end-to-end analytics solution using SQL Server and Power BI to answer business questions and visualize key metrics.
+
+### Action
+- Wrote SQL queries and created reusable SQL Views.
+- Performed data cleaning and validation.
+- Built a five-page interactive Power BI dashboard.
+- Created KPIs for bookings, revenue, cancellations, vehicle performance, and ratings.
+
+### Solution Delivered
+
+Developed an interactive Power BI dashboard that enables users to analyze booking performance, revenue, ride cancellations, payment methods, customer behavior, vehicle performance, and ratings through dynamic visualizations and filters.
+
+---
+
 # 🎯 Project Objectives
 
 The primary objectives of this project are:
