@@ -128,21 +128,6 @@ The following business questions were solved using SQL Server.
 | 9 | Calculate total booking value of successful rides |
 |10| Retrieve incomplete rides along with reasons |
 
-### SQL Concepts Used
-
-- SELECT
-- WHERE
-- GROUP BY
-- ORDER BY
-- COUNT()
-- SUM()
-- AVG()
-- MAX()
-- MIN()
-- ROUND()
-- FORMAT()
-- SQL Views
-
 ---
 
 # 📊 Power BI Dashboard
@@ -202,7 +187,7 @@ Includes:
 
 ## Step 1: Raw Dataset
 
-*(Show a screenshot of your CSV or Excel file.)*
+![Dataset
 
 ---
 
@@ -215,7 +200,7 @@ Includes:
 ## Step 3: Power BI Dashboard
 
 ### Overall Dashboard
-![Overall](...)
+![Overall](Overall.png)
 
 ### Vehicle Analysis
 ![Vehicle](...)
