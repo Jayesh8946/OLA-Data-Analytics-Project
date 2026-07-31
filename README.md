@@ -200,7 +200,7 @@ Includes:
 ## Step 3: Power BI Dashboard
 
 ### Overall Dashboard
-![Overall](Overall.png)
+![Docs](Overall.png)
 
 ### Vehicle Analysis
 ![Vehicle](...)
