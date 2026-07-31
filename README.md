@@ -203,7 +203,7 @@ Includes:
 ![Overall](Docs/Overall.png)
 
 ### Vehicle Analysis
-![Vehicle](Docs/Vehicle_Type)
+![Vehicle](Docs/Vehicle_Type.png)
 
 ### Revenue Analysis
 ![Revenue](Docs/Revenue.png)
