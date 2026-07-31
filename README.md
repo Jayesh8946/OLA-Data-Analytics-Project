@@ -203,16 +203,16 @@ Includes:
 ![Overall](Docs/Overall.png)
 
 ### Vehicle Analysis
-![Vehicle](...)
+![Vehicle](Docs/Vehicle_Type)
 
 ### Revenue Analysis
-![Revenue](...)
+![Revenue](Docs/Revenue.png)
 
 ### Cancellation Analysis
-![Cancellation](...)
+![Cancellation](Docs/Cancellation.png)
 
 ### Ratings Analysis
-![Ratings](...)
+![Ratings](Docs/Ratings.png)
 
 ---
 
