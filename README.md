@@ -193,7 +193,7 @@ Includes:
 
 ## Step 2: SQL Analysis
 
-[SQL]([[https://docs.github.com/](https://github.com/Jayesh8946/OLA-Data-Analytics-Project/tree/main/Dataset)](https://github.com/Jayesh8946/OLA-Data-Analytics-Project/tree/main/SQL))
+[SQL]([https://docs.github.com/](https://github.com/Jayesh8946/OLA-Data-Analytics-Project/tree/main/Dataset)](https://github.com/Jayesh8946/OLA-Data-Analytics-Project/tree/main/SQL)
 
 ---
 
