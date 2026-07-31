@@ -187,13 +187,13 @@ Includes:
 
 ## Step 1: Raw Dataset
 
-![Dataset
+[Dataset]([https://docs.github.com/](https://github.com/Jayesh8946/OLA-Data-Analytics-Project/tree/main/Dataset))
 
 ---
 
 ## Step 2: SQL Analysis
 
-*(Show SQL Server with your queries or views.)*
+[SQL]([[https://docs.github.com/](https://github.com/Jayesh8946/OLA-Data-Analytics-Project/tree/main/Dataset)](https://github.com/Jayesh8946/OLA-Data-Analytics-Project/tree/main/SQL))
 
 ---
 
