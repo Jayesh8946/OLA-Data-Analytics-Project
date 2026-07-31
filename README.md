@@ -16,7 +16,7 @@ This project analyzes a historical OLA ride-booking dataset covering 1 July 2024
 
 ---
 
-## ⭐ Project Summary
+# ⭐ Project Summary
 
 ### Situation
 Analyzed over 103K OLA ride bookings to understand business performance, customer behavior, and operational efficiency.
