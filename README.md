@@ -12,6 +12,8 @@ Ride-hailing platforms generate thousands of bookings every day. Understanding b
 
 In this project, I analyzed **103,025 ride bookings** using SQL Server and Power BI. Business questions were answered through SQL queries and reusable SQL Views, while Power BI dashboards were designed to visualize key performance indicators and operational metrics.
 
+This project analyzes a historical OLA ride-booking dataset covering 1 July 2024 to 31 July 2024. Using SQL Server, Excel, and Power BI, I explored booking trends, revenue, cancellations, customer behavior, and vehicle performance to build an interactive analytics dashboard.
+
 ---
 
 # 🎯 Project Objectives
@@ -39,16 +41,16 @@ The primary objectives of this project are:
 
 ---
 
-# 📊 Dataset Information
+## 📊 Dataset Information
 
-| Feature | Details |
-|---------|---------|
+| Attribute | Details |
+|-----------|----------|
 | Dataset | OLA Ride Bookings |
+| Time Period | **1 July 2024 – 31 July 2024** |
 | Records | **103,025** |
-| File Format | CSV |
-| Total Columns | 19 |
-| Analysis Tool | SQL Server |
-| Visualization Tool | Power BI |
+| Columns | **19** |
+| Format | CSV |
+| Size | ~103K ride bookings |
 
 ### Dataset Columns
 
@@ -176,46 +178,36 @@ Includes:
 
 ---
 
-## 5️⃣ Ratings Dashboard
+# 📸 Project Walkthrough
 
-Compares ratings across different vehicle types.
+## Step 1: Raw Dataset
 
-Includes:
-
-- Driver Ratings
-- Customer Ratings
+*(Show a screenshot of your CSV or Excel file.)*
 
 ---
 
-# 📸 Dashboard Preview
+## Step 2: SQL Analysis
 
-## Overall Dashboard
-
-> *(Add Screenshot Here)*
+*(Show SQL Server with your queries or views.)*
 
 ---
 
-## Vehicle Type Dashboard
+## Step 3: Power BI Dashboard
 
-> *(Add Screenshot Here)*
+### Overall Dashboard
+![Overall](...)
 
----
+### Vehicle Analysis
+![Vehicle](...)
 
-## Revenue Dashboard
+### Revenue Analysis
+![Revenue](...)
 
-> *(Add Screenshot Here)*
+### Cancellation Analysis
+![Cancellation](...)
 
----
-
-## Cancellation Dashboard
-
-> *(Add Screenshot Here)*
-
----
-
-## Ratings Dashboard
-
-> *(Add Screenshot Here)*
+### Ratings Analysis
+![Ratings](...)
 
 ---
 
