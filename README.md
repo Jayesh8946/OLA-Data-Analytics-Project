@@ -232,7 +232,7 @@ Some insights obtained from the analysis include:
 # 📂 Repository Structure
 
 ```
-OLA-Data-Analytics-End-to-End-Project/
+OLA-Ride-Analytics-&-Operational-Performance-Dashboard/
 
 │
 ├── Dataset/
