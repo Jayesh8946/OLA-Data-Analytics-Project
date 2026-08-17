@@ -10,7 +10,7 @@ The project demonstrates the complete analytics workflow—from data preparation
 
 Ride-hailing platforms generate thousands of bookings every day. Understanding booking trends, customer behaviour, revenue, cancellations, and ratings is essential for improving operational efficiency and customer satisfaction.
 
-In this project, I analysed **120K ride bookings** using SQL Server and Power BI. Business questions were answered through SQL queries and reusable SQL Views, while Power BI dashboards were designed to visualise key performance indicators and operational metrics.
+In this project, I analysed **120K ride bookings** using SQL Server and Power BI. Business questions were answered through SQL queries and reusable SQL Views. At the same time, Power BI dashboards were designed to visualise key performance indicators and operational metrics.
 
 This project analyses a historical OLA ride-booking dataset covering 1 July 2026 to 31 July 2026. Using SQL Server, Excel, and Power BI, I explored booking trends, revenue, cancellations, customer behaviour, and vehicle performance to build an interactive analytics dashboard.
 
@@ -221,11 +221,11 @@ Includes:
 Some insights obtained from the analysis include:
 
 - Most ride bookings were completed successfully.
-- Cash and UPI were the most preferred payment methods.
+- UPI(**17.6M**) and Cash(**7.1M**) were the most preferred payment methods.
 - Prime vehicle categories generated the highest booking revenue.
 - Cancellation reasons differed significantly between customers and drivers.
-- Driver and customer ratings remained consistently around **4.0** across vehicle types.
-- Ride demand remained relatively stable throughout the month with noticeable daily fluctuations.
+- Driver and customer ratings remained consistently around **3.5** across vehicle types.
+- Ride demand remained relatively stable throughout the month, with noticeable daily fluctuations.
 
 ---
 
@@ -236,24 +236,24 @@ OLA-Data-Analytics-End-to-End-Project/
 
 │
 ├── Dataset/
-│   └── Bookings.csv
+│   └── pune_ride_data_july_2026.csv
 │
-├── SQL/
-│   └── Ola_SQL_Analysis.sql
-│
-├── Dashboard/
-│   ├── Overall.png
-│   ├── Vehicle_Type.png
-│   ├── Revenue.png
+├── Docs/
 │   ├── Cancellation.png
-│   └── Ratings.png
+│   ├── Overall.png
+│   ├── Ratings.png
+│   ├── Revenue.png
+│   └── Vehicle_Type.png
 │
 ├── PowerBI/
-│   └── Ola_Dashboard.pbix
+│   └── ola_dashboard.pbix
 │
+├── SQL/
+│   └── ola_sql_analysis.sql
+│
+└── .gitignore
 ├── README.md
 ├── LICENSE
-└── .gitignore
 ```
 
 ---
@@ -303,7 +303,7 @@ Business Insights
 - Line Charts
 - Bar Charts
 - Interactive Filters
-- Data Visualization
+- Data Visualisation
 
 ### Excel
 
@@ -348,7 +348,7 @@ This project was completed as a hands-on analytics exercise inspired by a Data A
 
 # 👨‍💻 About Me
 
-I'm an aspiring **Data Analyst** passionate about SQL, Power BI, Business Intelligence, and Data Visualization.
+I'm an aspiring **Data Analyst** passionate about SQL, Power BI, Business Intelligence, and Data Visualisation.
 
 I enjoy building real-world analytics projects that transform raw data into meaningful business insights and continuously improve my problem-solving and analytical skills.
 
