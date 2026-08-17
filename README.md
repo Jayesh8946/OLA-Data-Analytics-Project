@@ -1,6 +1,6 @@
 # 🚖 OLA Data Analytics End-to-End Project
 
-An end-to-end **Data Analytics** project built using **SQL Server, Excel, and Power BI** to analyze ride booking data from OLA. This project focuses on solving real-world business problems by transforming raw booking data into meaningful insights through SQL analysis and interactive dashboards.
+An end-to-end **Data Analytics** project built using **SQL Server, Excel, and Power BI** to analyse ride booking data from OLA. This project focuses on solving real-world business problems by transforming raw booking data into meaningful insights through SQL analysis and interactive dashboards.
 
 The project demonstrates the complete analytics workflow—from data preparation and SQL querying to dashboard development and business insight generation.
 
@@ -8,21 +8,21 @@ The project demonstrates the complete analytics workflow—from data preparation
 
 # 📌 Project Overview
 
-Ride-hailing platforms generate thousands of bookings every day. Understanding booking trends, customer behavior, revenue, cancellations, and ratings is essential for improving operational efficiency and customer satisfaction.
+Ride-hailing platforms generate thousands of bookings every day. Understanding booking trends, customer behaviour, revenue, cancellations, and ratings is essential for improving operational efficiency and customer satisfaction.
 
-In this project, I analyzed **103,025 ride bookings** using SQL Server and Power BI. Business questions were answered through SQL queries and reusable SQL Views, while Power BI dashboards were designed to visualize key performance indicators and operational metrics.
+In this project, I analysed **120K ride bookings** using SQL Server and Power BI. Business questions were answered through SQL queries and reusable SQL Views, while Power BI dashboards were designed to visualise key performance indicators and operational metrics.
 
-This project analyzes a historical OLA ride-booking dataset covering 1 July 2024 to 31 July 2024. Using SQL Server, Excel, and Power BI, I explored booking trends, revenue, cancellations, customer behavior, and vehicle performance to build an interactive analytics dashboard.
+This project analyses a historical OLA ride-booking dataset covering 1 July 2026 to 31 July 2026. Using SQL Server, Excel, and Power BI, I explored booking trends, revenue, cancellations, customer behaviour, and vehicle performance to build an interactive analytics dashboard.
 
 ---
 
 # ⭐ Project Summary
 
 ### Situation
-Analyzed over 103K OLA ride bookings to understand business performance, customer behavior, and operational efficiency.
+Analysed over 100K OLA ride bookings to understand business performance, customer behaviour, and operational efficiency.
 
 ### Task
-Develop an end-to-end analytics solution using SQL Server and Power BI to answer business questions and visualize key metrics.
+Developed an end-to-end analytics solution using SQL Server and Power BI to answer business questions and visualise key metrics.
 
 ### Action
 - Wrote SQL queries and created reusable SQL Views.
@@ -32,7 +32,7 @@ Develop an end-to-end analytics solution using SQL Server and Power BI to answer
 
 ### Solution Delivered
 
-Developed an interactive Power BI dashboard that enables users to analyze booking performance, revenue, ride cancellations, payment methods, customer behavior, vehicle performance, and ratings through dynamic visualizations and filters.
+Developed an interactive Power BI dashboard that enables users to analyse booking performance, revenue, ride cancellations, payment methods, customer behaviour, vehicle performance, and ratings through dynamic visualisations and filters.
 
 ---
 
@@ -40,7 +40,7 @@ Developed an interactive Power BI dashboard that enables users to analyze bookin
 
 The primary objectives of this project are:
 
-- Analyze ride booking data using SQL Server
+- Analyse ride booking data using SQL Server
 - Answer business questions using SQL queries and Views
 - Perform data cleaning and validation
 - Build interactive Power BI dashboards
@@ -66,11 +66,11 @@ The primary objectives of this project are:
 | Attribute | Details |
 |-----------|----------|
 | Dataset | OLA Ride Bookings |
-| Time Period | **1 July 2024 – 31 July 2024** |
-| Records | **103,025** |
+| Time Period | **1 July 2026 – 31 July 2026** |
+| Records | **120,000** |
 | Columns | **19** |
 | Format | CSV |
-| Size | ~103K ride bookings |
+| Size | ~120K ride bookings |
 
 ### Dataset Columns
 
@@ -98,13 +98,13 @@ The primary objectives of this project are:
 
 # 📈 Business Requirements
 
-The project was designed to analyze the following business scenarios:
+The project was designed to analyse the following business scenarios:
 
 - Booking success rate
 - Ride cancellation trends
 - Revenue analysis
 - Vehicle performance
-- Customer booking behavior
+- Customer booking behaviour
 - Driver performance
 - Customer satisfaction
 - Payment method preferences
@@ -122,7 +122,7 @@ The following business questions were solved using SQL Server.
 | 3 | Count rides cancelled by customers |
 | 4 | Identify the Top 5 customers based on total rides |
 | 5 | Count rides cancelled by drivers due to personal/car issues |
-| 6 | Find maximum and minimum driver ratings for Prime Sedan |
+| 6 | Find the maximum and minimum driver ratings for Prime Sedan |
 | 7 | Retrieve all UPI payment bookings |
 | 8 | Calculate average customer rating for each vehicle |
 | 9 | Calculate total booking value of successful rides |
@@ -161,7 +161,7 @@ Compares different vehicle categories based on:
 
 ## 3️⃣ Revenue Dashboard
 
-Analyzes revenue performance using:
+Analyses revenue performance using:
 
 - Revenue by Payment Method
 - Top 5 Customers by Booking Value
@@ -171,7 +171,7 @@ Analyzes revenue performance using:
 
 ## 4️⃣ Cancellation Dashboard
 
-Analyzes ride cancellation patterns.
+Analyses ride cancellation patterns.
 
 Includes:
 
