@@ -1,4 +1,4 @@
-# 🚖 OLA Data Analytics End-to-End Project
+# 🚖 OLA Ride Analytics & Operational Performance Dashboard
 
 An end-to-end **Data Analytics** project built using **SQL Server, Excel, and Power BI** to analyse ride booking data from OLA. This project focuses on solving real-world business problems by transforming raw booking data into meaningful insights through SQL analysis and interactive dashboards.
 
